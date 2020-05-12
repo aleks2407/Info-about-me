@@ -19,5 +19,3 @@ I have few pets at home:
    * Cookie
 * Dog
   * Piri
-
-
