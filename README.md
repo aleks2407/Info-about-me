@@ -1,6 +1,6 @@
 ### A student of HYF (class 10)
 # **My name is Alex**
-![me](images/me.jpg)
+![me](images/aleksandra-shalimova.jpg)
 
 ## My hobbies:
 1. Yoga
